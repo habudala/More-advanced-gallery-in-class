@@ -17,3 +17,16 @@ margin-bottom: 20px;
 
 img{width:100%;}
 
+.caption {width:100%;
+		text-align: center;
+		background-color: blue;
+		color: white;
+		font-size:15px;
+		margin-top:-10px;
+		position:relative;
+		}
+
+
+
+
+
